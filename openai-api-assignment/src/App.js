@@ -3,14 +3,13 @@ import React from 'react';
 // import './App.css'
 import './App.scss'
 
+import { Header, Responses } from './containers';
+
 const App = () => {
   return (
     <div>
-        <h1 className='baby'>Hello
-            <div className='baby-chil'>
-                Guys
-            </div>
-        </h1>
+      <Header />
+      <Responses />
     </div>
   )
 };
