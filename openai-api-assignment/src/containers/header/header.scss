@@ -10,9 +10,12 @@
         width: 50%;
     }
 }
+@import '../../index.scss';
 
 button {
     width: 50%;
     margin-left: auto;
+    color: $button-primary-color;
+    background-color: $button-secondary-color;
 }
 

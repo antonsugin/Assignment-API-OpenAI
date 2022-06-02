@@ -1,0 +1,14 @@
+$button-primary-color: #c6538c;
+$button-secondary-color: blue;
+
+// :root {
+
+//     --color-bg: green;
+// }
+
+:export {
+    // bt-color: $button-primary-color;
+    // bt-col:$button-secondary-color;
+    $button-primary-color: #c6538c;
+    $button-secondary-color: blue;
+}

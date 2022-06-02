@@ -3,6 +3,7 @@ import React from 'react'
 import { Select } from '../../components'
 
 import './header.scss'
+// import '../../index.scss'
 
 const Header = () => {
   return (

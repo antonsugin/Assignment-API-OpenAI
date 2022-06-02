@@ -1,8 +1,7 @@
-.baby {
-  color: red;
-}
-
-.baby-chil {
-  color: blue;
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 /*# sourceMappingURL=App.css.map */
